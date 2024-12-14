@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\home\\postedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\home\\postedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\home\\newcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\home\\newcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\home\\getposition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\home\\getposition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\automarket.dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|solutionrelative:automarket.dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\automarket.dal\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|solutionrelative:automarket.dal\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\automarket.dal\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|solutionrelative:automarket.dal\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\webapplication3\\views\\car\\getcars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF957763-9F30-477E-9172-7AF3D9E0B805}|WebApplication3\\Automarket.csproj|solutionrelative:webapplication3\\views\\car\\getcars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D95FF-9A3C-4108-ACA6-11D3D10E5F21}|Automarket.Domain\\Automarket.Domain.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\automarket.domain\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D95FF-9A3C-4108-ACA6-11D3D10E5F21}|Automarket.Domain\\Automarket.Domain.csproj|solutionrelative:automarket.domain\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|c:\\visualstudio2022\\w7\\automarket\\webapplication3\\automarket.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D028AFBE-7A99-4990-A062-4457630EA81E}|Automarket.DAL\\Automarket.DAL.csproj|solutionrelative:automarket.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:17:46.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Automarket.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Automarket.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:17:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.Domain\\Entity\\Car.cs",
+              "RelativeDocumentMoniker": "Automarket.Domain\\Entity\\Car.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.Domain\\Entity\\Car.cs",
+              "RelativeToolTip": "Automarket.Domain\\Entity\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:11:39.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Controllers\\CarController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:52:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:18:22.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:12:49.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetCars.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Car\\GetCars.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Car\\GetCars.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Car\\GetCars.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Car\\GetCars.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:13:08.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPosition.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\GetPosition.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\GetPosition.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\GetPosition.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\GetPosition.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T22:52:14.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Automarket.DAL\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "Automarket.DAL\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:17:27.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Automarket.DAL\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Automarket.DAL\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:17:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Automarket.DAL\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\Automarket.DAL\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Automarket.DAL\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwE0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:16:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:06:31.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewCreate.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\NewCreate.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\NewCreate.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\NewCreate.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\NewCreate.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:44:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostEdit.cshtml",
+              "DocumentMoniker": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\PostEdit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\PostEdit.cshtml",
+              "ToolTip": "C:\\VisualStudio2022\\W7\\Automarket\\WebApplication3\\WebApplication3\\Views\\Home\\PostEdit.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\PostEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T21:57:53.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

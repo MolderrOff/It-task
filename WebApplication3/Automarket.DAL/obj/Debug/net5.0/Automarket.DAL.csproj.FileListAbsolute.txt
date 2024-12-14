@@ -1,0 +1,15 @@
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.deps.json
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.dll
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\ref\Automarket.DAL.dll
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.dll
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.pdb
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.AssemblyReference.cache
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfoInputs.cache
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfo.cs
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CopyComplete
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.dll
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\ref\Automarket.DAL.dll
+C:\Users\Павел\source\repos\WebApplication3\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.pdb

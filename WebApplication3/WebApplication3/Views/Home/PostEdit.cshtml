@@ -1,0 +1,44 @@
+﻿@model Itmytask.Domain.Entity.Work
+
+<h2>Редактирование заявки</h2>
+<p><a asp-action="Index">Вернуться на стартовую</a></p>
+<p><a asp-action="GetPosition">Вернуться назад на GetPosition</a></p>
+<form asp-action="PostEdit" asp-controller="home" asp-route-id="@Model.Id">
+   <p>
+        <label asp-for="NameTask">Название задания</label>
+        <input type="text" asp-for="NameTask" />
+   </p>
+    <p>
+        <label asp-for="Description">Описание</label>
+        <input type="text" asp-for="Description" />
+    </p>
+    <p>
+        <label asp-for="TaskNumber">Номер задания</label>
+        <input type="number" asp-for="TaskNumber" />
+    </p>
+    <p>
+        <label asp-for="Description">Описание задания</label>
+        <input type="text" asp-for="Description" />
+    </p>
+    <p>
+        <label asp-for="Customer">Заказчик</label>
+        <input type="text" asp-for="Customer" />
+    </p>
+
+    <p>
+        <label asp-for="AdressTask">Адрес выполнения задания</label>
+        <input type="text" asp-for="AdressTask" />
+    </p>
+
+    <p>
+        <label asp-for="Price">Цена</label>
+        <input type="number" asp-for="Price" />
+    </p>
+    <p>
+        <label asp-for="TypeWork">Работы завершены-2/Принята в работу-1/свободна-0,3,4 ..</label>
+        <input type="number" asp-for="TypeWork" />
+    </p>
+    <p>
+        <input type="submit" value="Сохранить" />
+    </p>
+</form>

@@ -1,0 +1,196 @@
+﻿@model Itmytask.Domain.Entity.Work
+
+
+<h2>Добавление объекта</h2>
+<p><a asp-action="Index">Вернуться на стартовую</a></p>
+<form asp-action="NewCreate" asp-controller="home">
+    <p>
+        <label asp-for="NameTask">Название задания</label>
+        <input type="text" asp-for="NameTask" />
+    </p>
+    <p>
+        <label asp-for="TaskNumber">Номер задания</label>
+        <input type="number" asp-for="TaskNumber" />
+    </p>
+    <p>
+        <label asp-for="Description">Описание задания</label>
+        <input type="text" asp-for="Description" />
+    </p>
+    <p>
+        <label asp-for="Customer">Заказчик</label>
+        <input type="text" asp-for="Customer" />
+    </p>
+
+    <p>
+        <label asp-for="AdressTask">Адрес выполнения задания</label>
+        <input type="text" asp-for="AdressTask" />
+    </p>
+
+    <p>
+        <label asp-for="Price">Цена</label>
+        <input type="number" asp-for="Price" />
+    </p>
+    <p>
+        <label asp-for="TypeWork">Работы завершены-2/Принята в работу-1/свободна-0,3,4 ...</label>
+        <input type="number" asp-for="TypeWork" />
+    </p>
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+</form>
+
+<p>Вывод одной позиции</p>
+<p>Создание путём перехода на страницу /Work/GetWorks: <a href="https://localhost:44309/Work/GetWorks">Создать новые тестовые следующие позиции в БД</a>.</p>
+
+@{
+    <table frame="void" rules="cols">
+        <tr>
+            <th width="100" height="15">
+                Id
+            </th>
+
+            <th width="100" height="15">
+
+                NameTask
+
+            </th>
+
+            <th width="100" height="15">
+
+                TaskNumber
+
+            </th>
+
+            <th width="150" height="15">
+
+                Description
+
+            </th>
+            <th width="150" height="15">
+
+                Customer
+
+            </th>
+            <th width="150" height="15">
+
+                AdressTask
+
+            </th>
+            <th width="100" height="15">
+
+                Price
+
+            </th>
+            <th width="100" height="15">
+
+                TypeWork
+
+            </th>
+
+        </tr>
+    </table>
+}
+@{
+    <style>
+
+        table {
+            border: 1px solid grey;
+            border-collapse: collapse;
+        }
+    </style>
+    <table frame="void" rules="cols">
+        <tr>
+            <th width="100" height="15">
+                
+            </th>
+
+            <th width="100" height="15">
+
+                Замена видеорегистратора
+
+            </th>
+
+            <th width="100" height="15">
+
+                3028
+
+            </th>
+
+            <th width="150" height="15">
+
+                В салоне пришёл новый регистратор, необходимо заменить, установленный отдать продавцам
+
+            </th>
+            <th width="100" height="15">
+
+                Линии любви
+
+            </th>
+            <th width="100" height="15">
+
+                г. Орёл, ул. Революции, 38
+
+            </th>
+            <th width="100" height="15">
+
+                1500
+
+            </th>
+            <th width="100" height="15">
+
+                0
+
+            </th>
+
+        </tr>
+    </table>
+}
+@{
+    <table frame="void" rules="cols">
+        <tr>
+            <th width="100" height="15">
+                
+            </th>
+
+            <th width="100" height="15">
+
+                Замена видеорегистратора
+
+            </th>
+
+            <th width="100" height="15">
+
+                3029
+
+            </th>
+
+            <th width="150" height="15">
+
+                В салоне пришёл новый регистратор, необходимо заменить, установленный отдать продавцам
+
+            </th>
+            <th width="100" height="15">
+
+                Линии любви
+
+            </th>
+            <th width="100" height="15">
+
+                Линии любви
+
+            </th>
+            <th width="100" height="15">
+
+                1500
+
+            </th>
+            <th width="100" height="15">
+
+                0
+
+            </th>
+
+        </tr>
+    </table>
+}
+

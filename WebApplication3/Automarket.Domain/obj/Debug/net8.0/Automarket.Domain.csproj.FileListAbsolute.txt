@@ -1,0 +1,12 @@
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\bin\Debug\net8.0\Automarket.Domain.deps.json
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\bin\Debug\net8.0\Automarket.Domain.dll
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\bin\Debug\net8.0\Automarket.Domain.pdb
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.csproj.AssemblyReference.cache
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.AssemblyInfoInputs.cache
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.AssemblyInfo.cs
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.dll
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\refint\Automarket.Domain.dll
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\Automarket.Domain.pdb
+C:\VisualStudio2022\W10\Itmytask\WebApplication3\Automarket.Domain\obj\Debug\net8.0\ref\Automarket.Domain.dll

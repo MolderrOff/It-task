@@ -1,0 +1,92 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model List<Itmytask.Domain.Entity.Work>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Страница GetWorks</h1>
+    <p>Страница /Home/Index: <a href="https://localhost:44309/Home/Index">Вернуться на стартовую</a>.</p>
+
+
+<p>База данных обновлена. Список позиций:</p>
+
+@{
+    <table frame="void" rules="cols">
+        <tr>  
+           <th width="100" height="15">
+               Id
+           </th>
+                <th width="100" height="15">
+                    NameTask
+                </th>
+                <th width="150" height="15">
+                    TaskNumber
+                </th>
+                <th width="150" height="15">
+                    Description
+                </th>
+                <th width="150" height="15">
+                    Customer
+                </th>
+                <th width="150" height="15">
+                    AdressTask
+                </th>
+                <th width="100" height="15">
+                    Price
+                </th>
+                <th width="100" height="15">
+                    TypeWork
+                </th>
+
+        </tr>
+    </table>
+}
+
+    @foreach (var work in Model)
+    {
+        <style>
+
+            table {
+                border: 1px solid grey;
+                border-collapse: collapse;
+            }
+        </style>
+
+        <table frame="void" rules="cols">
+            <tr>
+                <td width="100" height="15">
+                    @work.Id
+                </td>
+                <td width="100" height="15">
+                    @work.NameTask
+                </td>
+                <td width="150" height="15">
+                    @work.TaskNumber
+                </td>
+                <td width="150" height="15">
+                    @work.Description
+                </td>
+                <td width="150" height="15">
+                    @work.Customer
+                </td>
+                <td width="150" height="15">
+                    @work.AdressTask
+                </td>
+                <td width="100" height="15">
+                    @work.Price
+                </td>
+                <td width="100" height="15">
+                    @work.TypeWork
+                </td>
+            </tr>
+
+
+        </table>
+    }
+</div>

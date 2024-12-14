@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Itmytask.Domain.Entity.Work>
+
+    <h2>Список объектов</h2>
+    <p><a asp-action="NewCreate">Добавить объект</a></p>
+    <p><a asp-action="Index">Вернуться на стартовую</a></p>
+    <table frame="void" rules="cols">   
+    <tr>
+        <th width="100" height="15">
+            Id
+        </th>
+
+        <th width="100" height="15">
+
+            NameTask
+
+        </th>
+
+        <th width="100" height="15">
+
+            TaskNumber
+
+        </th>
+
+        <th width="150" height="15">
+
+            Description
+
+        </th>
+        <th width="150" height="15">
+
+            Customer
+
+        </th>
+        <th width="150" height="15">
+
+            AdressTask
+
+        </th>
+        <th width="100" height="15">
+
+            Price
+
+        </th>
+
+
+    </tr>       
+
+    </table>
+@foreach (var item in Model)
+{
+    <style>
+
+        table {
+            border: 1px solid grey;
+            border-collapse: collapse;
+        }
+    </style>
+
+    <table frame="void" rules="cols">
+
+        <tr>
+            <td width="100" height="15">
+                @item.Id
+            </td>
+            <td width="100" height="15">
+                @item.NameTask
+            <td width="100" height="15">
+                    @item.TaskNumber
+            </td>
+            <td width="150" height="15">
+                    @item.Description
+            </td>
+            <td width="150" height="15">
+                    @item.Customer
+            </td>
+            <td width="150" height="15">
+                    @item.AdressTask
+            </td>
+            <td width="100" height="15">
+                    @item.Price
+            </td>
+
+           <td>
+               <a asp-action="PostEdit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a>
+           </td>
+           <td>
+                <form asp-controller="Home" asp-action="PostDelete" method="post" asp-route-id="@item.Id">
+                   <input type="submit" value="Удалить" />
+               </form>
+           </td>
+        </tr>
+
+
+    </table>
+}
